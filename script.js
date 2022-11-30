@@ -1,7 +1,7 @@
-let showMoreButton = document.querySelector('.button');
-let hiddenItems = document.querySelectorAll('.hidden-item');
-let showMoreButtonTech = document.querySelector('.button-tech');
-let hiddenItemsTech = document.querySelectorAll('.hidden-item-tech');
+const showMoreButton = document.querySelector('.button');
+const hiddenItems = document.querySelectorAll('.hidden-item');
+const showMoreButtonTech = document.querySelector('.button-tech');
+const hiddenItemsTech = document.querySelectorAll('.hidden-item-tech');
 
 showMoreButton.addEventListener('click', function(){
 

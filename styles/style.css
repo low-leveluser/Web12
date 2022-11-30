@@ -1126,16 +1126,7 @@ body {
       font-size: 14px;
   }
 }
-/* @media (max-width: 1100px) {
-  .cost-menu__item,
-  .tech-menu__content,
-  .footer{
-      width: 720px;
-  }
-  .slider-main {
-      width: 800px;
-  }
-}  */
+
 @media (max-width: 1099px) {
   .cost-menu__item {
       width: auto;
